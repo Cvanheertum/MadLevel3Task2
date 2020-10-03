@@ -7,6 +7,8 @@
     <string name="next">Next</string>
     <string name="previous">Previous</string>
 
-    <string name="hello_first_fragment">Hello first fragment</string>
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="btn_AddPortal">Add Portal</string>
+    <string name="portal_title">Title</string>
+    <string name="portal_url">URL</string>
+    <string name="placeholder">Placeholder</string>
 </resources>
