@@ -9,6 +9,8 @@
 
     <string name="btn_AddPortal">Add Portal</string>
     <string name="portal_title">Title</string>
-    <string name="portal_url">URL</string>
+    <string name="portal_url">Url</string>
     <string name="placeholder">Placeholder</string>
+    <string name="not_valid_portal">Fields must be filled!</string>
+    <string name="url_prefix">http://</string>
 </resources>
